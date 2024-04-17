@@ -42,8 +42,8 @@
 
 ## Sobre mim
 
-- 👩‍🎓 **Técnico em Informática pelo IFPB, Campus Sousa** at [IFPB](https://www.ifpb.edu.br/sousa);
-- 👩‍🎓 **Graduando em Tecnologia da Informação pela UFERSA** at [Ufersa](https://ufersa.edu.br/);
-- 👩‍🎓 **Pretendo fazer Engenharia de Sofware** at [Ufersa](https://ufersa.edu.br/);
+- 👩‍🎓 **Técnico em Informática pelo IFPB, Campus Sousa** - [IFPB](https://www.ifpb.edu.br/sousa);
+- 👩‍🎓 **Graduando em Tecnologia da Informação pela UFERSA** - [Ufersa](https://ufersa.edu.br/);
+- 👩‍🎓 **Pretendo fazer Engenharia de Sofware** - [Ufersa](https://ufersa.edu.br/);
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=120&color=FA8B00&section=footer"/>
